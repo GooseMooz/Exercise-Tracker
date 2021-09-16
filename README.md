@@ -1,1 +1,1 @@
-I love this stupid shitty project
+# Simple excercise tracker.
